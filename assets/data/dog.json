@@ -1,0 +1,22 @@
+{
+	"dog": [
+		{
+			"breed": "Corgi/Shepherd",
+			"lifeexpectancy": "10-13",
+			"speciality": "Sleeping",
+			"image": "dog1.jpg"
+		},
+		{
+			"breed": "French Bulldog",
+			"lifeexpectancy": "9",
+			"speciality": "Biting hands",
+			"image": "dog2.jpg"
+		},
+		{
+			"breed": "Pomeranian",
+			"lifeexpectancy": "10",
+			"speciality": "Barking",
+			"image": "dog3.jpg"
+		}
+	]
+}

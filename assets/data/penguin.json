@@ -1,0 +1,22 @@
+{
+	"penguin": [
+		{
+			"species": "Emperor",
+			"conservationstatus": "Near Threatened",
+			"height": "110-130cm",
+			"image": "penguin1.jpg"
+		},
+		{
+			"species": "Adélie",
+			"conservationstatus": "Least Concern",
+			"height": "46-71cm",
+			"image": "penguin2.jpg"
+		},
+		{
+			"species": "Fiordland",
+			"conservationstatus": "Vulnerable",
+			"height": "60cm",
+			"image": "penguin3.jpg"
+		}
+	]
+}
